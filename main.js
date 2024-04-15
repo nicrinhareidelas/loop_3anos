@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual o professor?");
+    var respostaTime = prompt("Qual o melhor professor?");
 
     
     if (respostaTime.toLowerCase() === "christian") {
